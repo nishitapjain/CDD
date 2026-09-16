@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Welcome
+=======
+Welcome to conflict branch
+>>>>>>> conflict branch
+
+Welcome to merge
