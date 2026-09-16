@@ -1,1 +1,11 @@
+
 this is the feature change
+
+
+Nishita
+Student
+19
+Nie college
+First rank student
+Python developer
+>>>>>>> 816f9333159c74fb235bb81395754171a1746145
